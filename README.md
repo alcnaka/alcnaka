@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alcnaka
 - 👀 I’m interested in Python, Rust, and Web.
 - 🌱 I’m currently learning asyncronous Python.
-- 💞️ I’m looking to collaborate on Tauri.
+- 💞️ I’m looking to collaborate on Tauri Document Translation.
 - 📫 How to reach me: https://twitter.com/alcnaka
 
 <!---
